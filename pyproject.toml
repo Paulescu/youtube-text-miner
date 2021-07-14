@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "youtube-text-miner"
+version = "0.1.0"
+description = ""
+authors = ["Pau <plabartabajo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+youtube-transcript-api = "^0.4.1"
+youtube-search-python = "^1.4.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

@@ -1,0 +1,7 @@
+README.rst
+setup.py
+youtube_text_miner/__init__.py
+youtube_text_miner.egg-info/PKG-INFO
+youtube_text_miner.egg-info/SOURCES.txt
+youtube_text_miner.egg-info/dependency_links.txt
+youtube_text_miner.egg-info/top_level.txt
